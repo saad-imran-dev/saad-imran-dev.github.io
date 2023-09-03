@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7ec3132.css",
+    "main.js": "/static/js/main.470d3ade.js",
+    "static/media/bubles.png": "/static/media/bubles.29fd002b1e745aefea73.png",
+    "static/media/splash.png": "/static/media/splash.64c6360b9d9e67d9dc39.png",
+    "index.html": "/index.html",
+    "main.c7ec3132.css.map": "/static/css/main.c7ec3132.css.map",
+    "main.470d3ade.js.map": "/static/js/main.470d3ade.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.470d3ade.js"
+  ]
+}
