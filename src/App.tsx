@@ -1,14 +1,12 @@
-import "./App.css";
-import MainTemplate from "./templates/MainTemplate";
+import './App.css';
+import { IntroductionPage } from './pages';
 
 function App() {
-  return (
-    <>
-      <MainTemplate>
-        <p>Portofolio Site</p>
-      </MainTemplate>
-    </>
-  );
+	return (
+		<>
+			<IntroductionPage />
+		</>
+	);
 }
 
 export default App;
