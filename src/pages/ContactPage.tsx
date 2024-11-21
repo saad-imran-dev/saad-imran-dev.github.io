@@ -4,8 +4,8 @@ import MainTemplate from '../templates/MainTemplate';
 const ContactPage: React.FC = () => {
 	return (
 		<MainTemplate>
-			<div>ContactPage</div>
-		</MainTemplate>
+			<h1 className='text-left'>Contact</h1>
+			</MainTemplate>
 	);
 };
 

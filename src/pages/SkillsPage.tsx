@@ -4,7 +4,7 @@ import MainTemplate from '../templates/MainTemplate';
 const SkillsPage: React.FC = () => {
 	return (
 		<MainTemplate>
-			<div>SkillsPage</div>
+			<h1 className="text-left">Education and Skills</h1>
 		</MainTemplate>
 	);
 };

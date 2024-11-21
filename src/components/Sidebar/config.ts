@@ -1,28 +1,30 @@
+import { Routes } from '../../enums';
+
 export const config = {
 	options: [
 		{
 			title: 'Introduction',
-			path: '/',
+			path: Routes.INTRODUCTION,
 		},
 		{
 			title: 'Education and Skills',
-			path: '/',
+			path: Routes.SKILLS,
 		},
 		{
 			title: 'Projects',
-			path: '/',
+			path: Routes.PROJECTS,
 		},
 		{
 			title: 'Experience',
-			path: '/',
+			path: Routes.EXPERIENCE,
 		},
 		{
 			title: 'Contact',
-			path: '/',
+			path: Routes.CONTACT,
 		},
 		{
 			title: 'blog',
-			path: '/',
+			path: Routes.BLOG,
 		},
 	],
 };

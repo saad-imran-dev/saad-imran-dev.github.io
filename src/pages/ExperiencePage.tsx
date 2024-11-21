@@ -4,8 +4,8 @@ import MainTemplate from '../templates/MainTemplate';
 const ExperiencePage: React.FC = () => {
 	return (
 		<MainTemplate>
-			<div>ExperiencePage</div>
-		</MainTemplate>
+			<h1 className='text-left'>Experience</h1>
+			</MainTemplate>
 	);
 };
 
